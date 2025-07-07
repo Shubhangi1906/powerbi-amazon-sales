@@ -17,7 +17,8 @@ This is an interactive dashboard built using Power BI to analyze Amazon's global
 ![image](https://github.com/user-attachments/assets/82ee1cd6-b1ce-49f4-a550-56bb71f6d726)
 
 #Markdown
-![Amazon Dashboard]
-(amazon-sales-dashboard.pbix )
+## 📥 Download Dashboard File
+
+[Click here to download the Amazon Sales Dashboard (.pbix)](amazon-sales-dashboard.pbix)
 
 👩‍💻 Made by Shubhangi Sawarkar – Data Science Student
